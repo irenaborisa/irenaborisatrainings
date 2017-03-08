@@ -3,7 +3,6 @@
 ## Training Plan
 
 
-
 # Module 1
 ### 1. What is Java?
 First and foremost I recommend start learning Java programming language with
